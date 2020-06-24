@@ -2,7 +2,7 @@
  it's a simple Runner Game with P5.js and Canvas by Alura — 
  [Click here and enjoy!](https://yagasakii.github.io/witchRunner/index.html)
  
- <h1><img src="https://raw.githubusercontent.com/Yagasakii/witchRunner/master/imagens/assets/loginscreen.png"  width="53%" height"100%">
+ <h1><img src="https://raw.githubusercontent.com/Yagasakii/witchRunner/master/imagens/assets/loginscreen.png"  width="51%" height"100%">
  <img src="https://raw.githubusercontent.com/Yagasakii/witchRunner/master/imagens/assets/screenshot.png"  width="49%" height"100%"></h1>
 
 # Tecnologys
