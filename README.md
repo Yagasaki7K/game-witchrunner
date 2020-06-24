@@ -1,5 +1,6 @@
 # About
  it's a simple Runner Game with P5.js and Canvas by Alura.
+ [Click here and enjoy!](https://yagasakii.github.io/witchRunner/index.html)
 
 # Tecnologys
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
