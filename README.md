@@ -11,4 +11,5 @@
 - [JavaScript](https://www.javascript.com/)
 - [P5.js](https://p5js.org/)
 
-<center>Developed by [Anderson "Yagasaki" Marlon](https://www.linkedin.com/in/andersonmarlon/) - Immersive Course by [Alura](https://www.alura.com.br/)</center>
+Developed by [Anderson "Yagasaki" Marlon](https://www.linkedin.com/in/andersonmarlon/)<br>
+ Immersive Course by [Alura](https://www.alura.com.br/)
